@@ -30,6 +30,7 @@
 		C51D827526AC0B6A008A74CA /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51D827426AC0B6A008A74CA /* Artist.swift */; };
 		C51D827726AC0B75008A74CA /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51D827626AC0B75008A74CA /* UserProfile.swift */; };
 		C51D827926AC1A5F008A74CA /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51D827826AC1A5E008A74CA /* Extensions.swift */; };
+		C51D827B26AC3D73008A74CA /* AuthResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51D827A26AC3D73008A74CA /* AuthResponse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		C51D827426AC0B6A008A74CA /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		C51D827626AC0B75008A74CA /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
 		C51D827826AC1A5E008A74CA /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		C51D827A26AC3D73008A74CA /* AuthResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthResponse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 		C51D825026AC0544008A74CA /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				C51D827A26AC3D73008A74CA /* AuthResponse.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				C51D825526AC09A5008A74CA /* TabBarViewController.swift in Sources */,
 				C51D823F26AC04CA008A74CA /* HomeViewController.swift in Sources */,
 				C51D826F26AC0B2F008A74CA /* HapticsManager.swift in Sources */,
+				C51D827B26AC3D73008A74CA /* AuthResponse.swift in Sources */,
 				C51D827326AC0B5E008A74CA /* AudioTrack.swift in Sources */,
 				C51D825D26AC0A59008A74CA /* AuthViewController.swift in Sources */,
 				C51D823B26AC04CA008A74CA /* AppDelegate.swift in Sources */,
